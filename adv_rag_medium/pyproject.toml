@@ -7,6 +7,15 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+llama-index = "^0.10.29"
+torch = "^2.2.2"
+sentence-transformers = "^2.6.1"
+langchain-community = "^0.0.32"
+transformers = "^4.39.3"
+llama-index-llms-huggingface = "^0.1.4"
+pydantic = "^2.7.0"
+pydantic-settings = "^2.2.1"
+bitsandbytes = "^0.43.1"
 
 
 [build-system]
