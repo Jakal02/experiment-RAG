@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "adv-rag-exp"
+version = "0.1.0"
+description = "Following the medium tutorials in README"
+authors = ["Jakal02 <gitcontribs@eligrubbs.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
