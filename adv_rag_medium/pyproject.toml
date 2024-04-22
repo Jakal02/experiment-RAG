@@ -15,7 +15,8 @@ transformers = "^4.39.3"
 llama-index-llms-huggingface = "^0.1.4"
 pydantic = "^2.7.0"
 pydantic-settings = "^2.2.1"
-bitsandbytes = "^0.43.1"
+bitsandbytes = "0.40.2"
+accelerate = "0.21.0"
 
 
 [build-system]
